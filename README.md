@@ -19,7 +19,7 @@ desarrollo web moderno.
 
 | Proyecto | Descripción | Demo |
 |----------|-------------|------|
-| [Around](https://github.com/gitalffa/web_project_around_es) | Red social de fotografía con REST APIs, clima en tiempo real y NASA APOD | [Ver demo](https://gitalffa.github.io/web_project_around_es/) |
+| [simulador](https://github.com/gitalffa/simulador-agentes) | Proyecto de aprendizaje de JavaScript vanilla que simula un debate entre agentes de inteligencia artificial con personalidades distintas, usando la API de Claude (Anthropic). | [Ver demo](Por seguridad no puedo mostrar el DEMO) |
 | [Homeland](https://github.com/gitalffa/web_project_homeland) | Sitio web responsivo multilingüe | [Ver demo](https://gitalffa.github.io/web_project_homeland/) |
 | [CV Interactivo](https://github.com/gitalffa/cv-interactivo) | Currículum vitae como aplicación web | [Ver demo](https://gitalffa.github.io/cv-interactivo/) |
 
