@@ -20,7 +20,7 @@ desarrollo web moderno.
 | Proyecto | Descripción | Demo |
 |----------|-------------|------|
 | [simulador](https://github.com/gitalffa/simulador-agentes) | Proyecto de aprendizaje de JavaScript vanilla que simula un debate entre agentes de inteligencia artificial con personalidades distintas, usando la API de Claude (Anthropic). | [Ver demo](Por seguridad no puedo mostrar el DEMO) |
-| [web_project_around_react](https://github.com/gitalffa/web_project_around_react) | Aplicación web de una página (SPA) | [Ver demo](https://gitalffa.github.io/web_project_around_react/) |
+| [HomeLand](https://github.com/gitalffa/web_project_homeland) | Aplicación web de una página (SPA) | [Ver demo](https://github.io/gitalffa/web_project_homeland) |
 | [CV Interactivo](https://github.com/gitalffa/cv-interactivo) | Currículum vitae como aplicación web | [Ver demo](https://gitalffa.github.io/cv-interactivo/) |
 
 ## 📫 Contacto
